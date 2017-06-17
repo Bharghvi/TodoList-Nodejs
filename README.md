@@ -8,5 +8,5 @@
 It is simply a Todo List app where a user can add and delete todo.
 
 # Preview
-![image](123.gif)
+![image](todoApp.gif)
 
